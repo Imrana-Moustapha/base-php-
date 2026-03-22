@@ -1,0 +1,21 @@
+{
+    "name": "imrana/test",
+    "description": "Gestion de School",
+    "license": "MIT",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Imrana\\Test\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Imrana Moustapha",
+            "email": "imranamoustapha3@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
